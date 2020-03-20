@@ -67,3 +67,18 @@ Mac下主要使用[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-
 - [ProcessOn](https://www.processon.com)：制作各种图
 - [XMind: ZEN 2020](https://www.xmind.cn/zen/)：脑图工具
 - [Balsamiq Mockups 3](https://balsamiq.com/download/)：原型和线框图工具
+
+## 日常工具
+- [1Password](https://1password.com/)
+- [有道词典](http://dict.youdao.com/)
+- [每日英语听力](http://dict.eudic.net/ting/)
+- [微信](https://weixin.qq.com/)
+- [百度网盘](https://pan.baidu.com/)
+- [PDF Expert](https://www.pdfexpert.cn/)
+- [Alfred3](https://www.alfredapp.com/)：Mac最好的工作流工具
+- [Archiver](https://archiverapp.com/)：解压缩工具
+- [Paste](https://pasteapp.com/)：剪贴板记录工具
+- [Magnet](https://itunes.apple.com/cn/app/p.m.-magnet-free/id441258766?mt=12)：快捷分屏工具
+- [IINA](https://github.com/lhc70000/iina)：Mac中比较好用的现代播放器
+- [Clear My Mac](https://macpaw.com/)：Mac清理工具
+- [iStat Menus](https://bjango.com/mac/istatmenus/)：电脑运行状态监控工具
