@@ -45,3 +45,14 @@ Mac下主要使用[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-
   - [Free MyBatis plugin](https://plugins.jetbrains.com/plugin/8321-free-mybatis-plugin)：Mybatis 的插件
   - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)：彩虹括号，缓解眼疲劳
 
+## 浏览器
+- [Chrome](https://www.google.com/chrome/)
+  - [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon)： 为 IT 从业者提供优质内容
+  - [OneTab](https://www.one-tab.com/)：标签页管理工具，节省高达95％的内存，并减轻标签页混乱现象
+  - [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)：网页截图工具
+  - [Octotree](https://www.octotree.io/)：Github 代码阅读工具
+  - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+  - [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl?utm_source=chrome-ntp-icon)
+  - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?utm_source=chrome-ntp-icon)
+  - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
