@@ -56,3 +56,14 @@ Mac下主要使用[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-
   - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?utm_source=chrome-ntp-icon)
   - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Safari]():系统自带
+
+## 开发辅助
+- [Docker](https://www.docker.com/)
+- [Navicat Premium](https://www.navicat.com/en/products/navicat-premium)：数据库管理工具
+- [Redis Desktop Manager](https://redisdesktop.com/)：Redis管理工具
+- [Wireshark](https://www.wireshark.org/)：抓包分析工具
+- [Postman](https://www.postman.com/)：接口调试工具
+- [ProcessOn](https://www.processon.com)：制作各种图
+- [XMind: ZEN 2020](https://www.xmind.cn/zen/)：脑图工具
+- [Balsamiq Mockups 3](https://balsamiq.com/download/)：原型和线框图工具
