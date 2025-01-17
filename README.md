@@ -1,16 +1,12 @@
 # my-productivity-tools
 
 - [my-productivity-tools](#my-productivity-tools)
-  - [翻墙工具](#%e7%bf%bb%e5%a2%99%e5%b7%a5%e5%85%b7)
   - [终端工具](#%e7%bb%88%e7%ab%af%e5%b7%a5%e5%85%b7)
   - [编辑器](#%e7%bc%96%e8%be%91%e5%99%a8)
   - [浏览器](#%e6%b5%8f%e8%a7%88%e5%99%a8)
   - [开发辅助](#%e5%bc%80%e5%8f%91%e8%be%85%e5%8a%a9)
   - [在线办公](#%e5%9c%a8%e7%ba%bf%e5%8a%9e%e5%85%ac)
   - [日常工具](#%e6%97%a5%e5%b8%b8%e5%b7%a5%e5%85%b7)
-
-## 翻墙工具
-Mac下主要使用[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)作为翻墙工具，翻墙源使用[928Net](https://928net.org/)，付费使用，使用了有两年了，网速快+稳定，缺点一个是需要翻墙后才可访问，一个是需要邀请码。
 
 ## 终端工具
 - [Iterm2](https://github.com/gnachman/iTerm2)：Mac OS X的终端模拟工具，好看+好用
@@ -48,52 +44,47 @@ Mac下主要使用[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-
     }
   ```
 - [Jetbrains Toolbox App](https://www.jetbrains.com/toolbox-app/)：使用它管理我的IDEA，Golang，PyCharm
-  - [Lombok Plugin](https://github.com/mplushnikov/lombok-intellij-plugin)：Lombok插件
-  - [GrepConsole](https://github.com/krasa/GrepConsole)：给日志上色，更好辨认
+  - [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)：Git 插件
+  - [Grep Console](https://github.com/krasa/GrepConsole)：给日志上色，更好辨认
   - [Alibaba Java Coding Guidelines](https://github.com/alibaba/p3c)：阿里巴巴代码规约检查工具
-  - [Free MyBatis plugin](https://plugins.jetbrains.com/plugin/8321-free-mybatis-plugin)：Mybatis 的插件
+  - [MyBatis X](https://plugins.jetbrains.com/plugin/10119-mybatisx)：Mybatis 插件
   - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)：彩虹括号，缓解眼疲劳
 
 ## 浏览器
 - [Chrome](https://www.google.com/chrome/)
-  - [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon)： 为 IT 从业者提供优质内容
   - [OneTab](https://www.one-tab.com/)：标签页管理工具，节省高达95％的内存，并减轻标签页混乱现象
   - [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)：网页截图工具
-  - [Octotree](https://www.octotree.io/)：Github 代码阅读工具
-  - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+  - [沉浸式翻译](https://immersivetranslate.com)
   - [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl?utm_source=chrome-ntp-icon)
   - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?utm_source=chrome-ntp-icon)
-  - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Microsoft Edge](https://www.microsoft.com/zh-CN/edge)
 - [Safari]():系统自带
 
 ## 开发辅助
-- [Docker](https://www.docker.com/)
+- [OrbStack](https://orbstack.dev)：OrbStack is the fast, light, and easy way to run Docker containers and Linux. Develop at lightspeed with our Docker Desktop alternative.
 - [Navicat Premium](https://www.navicat.com/en/products/navicat-premium)：数据库管理工具
-- [Redis Desktop Manager](https://redisdesktop.com/)：Redis管理工具
+- [Redis Insight](https://redis.io/insight/)：Visualize, optimize, and  troubleshoot with Redis Insight
 - [Wireshark](https://www.wireshark.org/)：抓包分析工具
 - [Postman](https://www.postman.com/)：接口调试工具
+- [Apifox](https://apifox.com/)：国产接口调试工具
 
 ## 在线办公
-- [ProcessOn](https://www.processon.com) + [Whimsical](https://whimsical.com)：制作各种图，你指的拥有
+- [ProcessOn](https://www.processon.com) + [Whimsical](https://whimsical.com)：作图工具
 - [Balsamiq Mockups 3](https://balsamiq.com/download/)：原型和线框图工具
-- [Notion](https://www.notion.so/)：超好用文档工具，缺点就是得翻墙，国内的可以考虑用语雀
-- [Carbon](https://carbon.now.sh/)：代码美化工具，还有一个[Codeimg.io](https://codeimg.io/)类似
 - [Slides](https://slides.com/)：在线PPT，类似的还有[Beautiful.ai](https://www.beautiful.ai/-Lc9FVBeWUKROplVtvz4/1)和[Google Presentation](https://docs.google.com/presentation)，看个人喜好
 - [Google Office](https://docs.google.com/)：Google出的在线Doc，Excel，PPT工具，国内的有腾讯文档可以替代
 
 ## 日常工具
-- [1Password](https://1password.com/)
 - [有道词典](http://dict.youdao.com/)
 - [每日英语听力](http://dict.eudic.net/ting/)
 - [微信](https://weixin.qq.com/)
 - [百度网盘](https://pan.baidu.com/)
 - [PDF Expert](https://www.pdfexpert.cn/)
-- [Alfred3](https://www.alfredapp.com/)：Mac最好的效率工具
-- [CleanMyMac](https://cleanmymac.com/)：Mac清理工具
-- [Archiver](https://archiverapp.com/)：解压缩工具
-- [Paste](https://pasteapp.com/)：剪贴板记录工具
-- [Magnet](https://itunes.apple.com/cn/app/p.m.-magnet-free/id441258766?mt=12)：快捷分屏工具
-- [IINA](https://github.com/lhc70000/iina)：Mac中比较好用的现代播放器
-- [Clear My Mac](https://macpaw.com/)：Mac清理工具
-- [iStat Menus](https://bjango.com/mac/istatmenus/)：电脑运行状态监控工具
+- [Raycast](https://www.raycast.com/)：Your shortcut to everything.
+- [Keka](https://www.keka.io/en/)：the macOS file archiver
+- [Paste](https://pasteapp.io/)：Clipboard Manager for Mac, iPhone, and iPad
+- [IINA](https://github.com/lhc70000/iina)：The modern media player for macOS
+- [iStat Menus](https://bjango.com/mac/istatmenus/)：系统监测工具
+- [CleanShot X](https://cleanshot.com/)：截图软件
+- [Screen Studio](https://screen.studio)：录屏软件
