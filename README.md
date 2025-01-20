@@ -88,3 +88,4 @@
 - [iStat Menus](https://bjango.com/mac/istatmenus/)：系统监测工具
 - [CleanShot X](https://cleanshot.com/)：截图软件
 - [Screen Studio](https://screen.studio)：录屏软件
+- [Bartender](https://www.macbartender.com/)：菜单栏管理
