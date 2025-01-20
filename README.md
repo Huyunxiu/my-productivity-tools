@@ -14,9 +14,10 @@
 - [Homebrew](https://brew.sh/index_zh-cn.html)：Mac OS 软件包的管理器
 
 ## 编辑器
-> 编程专用等宽字体[RobotoMono](https://fonts.google.com/specimen/Roboto+Mono)，你值得拥有
+> 编程专用等宽字体[JetBrains Mono](https://www.jetbrains.com/lp/mono/)，你值得拥有
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)：一个从 Atom 移植的主题，非常简洁好看
+  - [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)：A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.
   - [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)：为 JS 生成符合 JSDoc 规范的注释工具
   - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)：VSC 中最好用的Git 工具
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): 用来在写 Markdown 的扩展
@@ -28,10 +29,10 @@
   ```json
   // 将设置放入此文件中以覆盖默认设置
   {
-      "editor.fontSize": 16,
-      "editor.fontFamily": "RobotoMono-Regular",
+      "editor.fontSize": 14,
+      "editor.fontFamily": "JetBrains Mono",
       "editor.tabSize": 2,
-      "workbench.colorTheme": "One Dark Pro",
+      "workbench.colorTheme": "Ayu Mirage Bordered",
       "workbench.iconTheme": "vscode-icons",
       "path-intellisense.mappings": {
         "@": "${workspaceRoot}/src",
